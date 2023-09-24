@@ -4,6 +4,7 @@
 #pip install langchain # Search & flow library
 #pip install openai
 #pip install tiktoken
+# For Reference https://platform.openai.com/docs/guides/embeddings
 
 import os
 
