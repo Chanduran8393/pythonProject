@@ -26,7 +26,7 @@ print(len(pages_content),pages_content)
 from langchain.embeddings.openai import OpenAIEmbeddings  #OpenAIEmbeddings is a Class
 from langchain.vectorstores import FAISS #FAISS is also a Class
 
-openai = OpenAIEmbeddings(openai_api_key="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")
+openai = OpenAIEmbeddings(openai_api_key="Place the Key here from OPEN-AI")
 
 #initiate the Class here
 embeddings=OpenAIEmbeddings()
