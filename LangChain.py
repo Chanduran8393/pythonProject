@@ -8,9 +8,9 @@
 
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'Place the Key here from OPEN-AI'
 
-#export OPENAI_API_KEY="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"
+#export OPENAI_API_KEY="sPlace the Key here from OPEN-AI3"
 
 #Step-1
 
